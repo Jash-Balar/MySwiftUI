@@ -12,8 +12,8 @@ struct MySwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-//            TextView()
-            ColorsView()
+//            TextBootcamp()
+            ColorsBootcamp()
         }
     }
 }

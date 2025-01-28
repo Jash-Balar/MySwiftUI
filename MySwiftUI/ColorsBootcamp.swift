@@ -1,5 +1,5 @@
 //
-//  ColorsView.swift
+//  ColorsBootcamp.swift
 //  MySwiftUI
 //
 //  Created by Jash Balar on 24/01/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ColorsView: View {
+struct ColorsBootcamp: View {
     @State private var count: Int = 0
     @State private var name: String = ""
     var rect = CGRect(origin: CGPoint(x: 0, y: 0), size: CGSize(width: 50, height: 30))
@@ -47,5 +47,5 @@ struct ColorsView: View {
 }
 
 #Preview {
-    ColorsView()
+    ColorsBootcamp()
 }

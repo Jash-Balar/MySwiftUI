@@ -1,5 +1,5 @@
 //
-//  Shape.swift
+//  ShapeBootcamp.swift
 //  MySwiftUI
 //
 //  Created by Jash Balar on 24/01/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Shape: View {
+struct ShapeBootcamp: View {
     var body: some View {
         VStack(spacing: 20) {
             ZStack {
@@ -61,5 +61,5 @@ struct Shape: View {
 }
 
 #Preview {
-    Shape()
+    ShapeBootcamp()
 }

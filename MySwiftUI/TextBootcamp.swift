@@ -1,5 +1,5 @@
 //
-//  TextView.swift
+//  TextBootcamp.swift
 //  MySwiftUI
 //
 //  Created by Jash Balar on 24/01/25.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TextView: View {
+struct TextBootcamp: View {
     var body: some View {
         Text("Hello, World! Welcome to MySwiftUI Project. Here I am keen to learn all the essentials of SwiftUI to level up my knowledge on the swift programming language".capitalized)
             .font(.largeTitle)
@@ -31,5 +31,5 @@ struct TextView: View {
 }
 
 #Preview {
-    TextView()
+    TextBootcamp()
 }
