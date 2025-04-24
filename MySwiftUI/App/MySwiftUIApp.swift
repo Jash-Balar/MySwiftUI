@@ -15,7 +15,8 @@ struct MySwiftUIApp: App {
 //            TextBootcamp()
 //            ColorsBootcamp()
 //            ListBootcamp()
-            ForEachBootcamp()
+//            ForEachBootcamp()
+            TextFieldBootcamp()
         }
     }
 }
