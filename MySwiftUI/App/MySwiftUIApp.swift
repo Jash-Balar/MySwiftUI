@@ -13,7 +13,9 @@ struct MySwiftUIApp: App {
         WindowGroup {
 //            ContentView()
 //            TextBootcamp()
-            ColorsBootcamp()
+//            ColorsBootcamp()
+//            ListBootcamp()
+            ForEachBootcamp()
         }
     }
 }
