@@ -16,7 +16,8 @@ struct MySwiftUIApp: App {
 //            ColorsBootcamp()
 //            ListBootcamp()
 //            ForEachBootcamp()
-            TextFieldBootcamp()
+//            TextFieldBootcamp()
+            DatePickerBootcamp()
         }
     }
 }
