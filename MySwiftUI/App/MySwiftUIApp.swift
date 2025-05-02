@@ -17,7 +17,9 @@ struct MySwiftUIApp: App {
 //            ListBootcamp()
 //            ForEachBootcamp()
 //            TextFieldBootcamp()
-            DatePickerBootcamp()
+//            DatePickerBootcamp()
+//            AppStorageBootcamp()
+            IntroView()
         }
     }
 }
