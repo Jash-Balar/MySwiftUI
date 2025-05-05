@@ -11,15 +11,7 @@ import SwiftUI
 struct MySwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-//            TextBootcamp()
-//            ColorsBootcamp()
-//            ListBootcamp()
-//            ForEachBootcamp()
-//            TextFieldBootcamp()
-//            DatePickerBootcamp()
-//            AppStorageBootcamp()
-            IntroView()
+            ToolbarBootcamp()
         }
     }
 }
